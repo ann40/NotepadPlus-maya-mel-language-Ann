@@ -10,3 +10,4 @@ Installation (installed version)
 Installation ( portable version)
 - copy userDefineLang.xml into your userDefineLangs folder under your portable notepad++ folder
 - close the notepad++ and reopen, should be working already, if not, then go under "language" tab on the top menu , select "mel" at the bottom
+<img width="1054" height="578" alt="notepad++ style" src="https://github.com/user-attachments/assets/fde88c66-52d9-4854-92ae-17fdea383311" />
