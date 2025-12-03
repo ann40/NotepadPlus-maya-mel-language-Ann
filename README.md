@@ -1,4 +1,5 @@
 copyright from https://github.com/artbycrunk/notepadpp-maya?tab=readme-ov-file
+I only change the color style, original script is from artbycrunk
 
 Maya MEL Syntax Highlighting for notepad++ editor. Based on updated commands from Autodesk Maya 2013.
 
